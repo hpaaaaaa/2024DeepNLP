@@ -17,3 +17,11 @@
 - cn_stopwords.txt：停词库
 
 - jyxstxtqj_downcc.com文件夹：存放中文语料库
+
+## HW2文件夹（对应第二次作业，包括利用LDA模型进行文本建模）
+
+- ZY2303203-黄家懿-HW2_Report.pdf：作业报告
+
+- LDA.py：利用LDA模型进行文本建模的代码
+
+- jyxstxtqj_downcc.com文件夹：存放中文语料库
