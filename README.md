@@ -25,3 +25,15 @@
 - LDA.py：利用LDA模型进行文本建模的代码
 
 - jyxstxtqj_downcc.com文件夹：存放中文语料库
+
+## HW3文件夹（对应第三次作业，包括基于Word3Vec的神经网络模型训练词向量）
+
+- ZY2303203-黄家懿-HW2_Report.pdf：作业报告
+
+- word2vec.py：基于Word3Vec的神经网络模型训练词向量的代码
+
+- kmeans_result_cbow.png：基于cbow模型的kmeans聚类结果
+
+- kmeans_result_sg.png：基于cbow模型的kmeans聚类结果
+
+- jyxstxtqj_downcc.com文件夹：存放中文语料库
