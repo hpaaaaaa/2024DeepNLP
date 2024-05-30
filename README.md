@@ -36,4 +36,6 @@
 
 - kmeans_result_sg.png：基于cbow模型的kmeans聚类结果
 
+- train_data：存放使用语料库生成的训练集
+
 - jyxstxtqj_downcc.com文件夹：存放中文语料库
