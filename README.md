@@ -28,7 +28,7 @@
 
 ## HW3文件夹（对应第三次作业，包括基于Word3Vec的神经网络模型训练词向量）
 
-- ZY2303203-黄家懿-HW2_Report.pdf：作业报告
+- ZY2303203-黄家懿-HW3_Report.pdf：作业报告
 
 - word2vec.py：基于Word3Vec的神经网络模型训练词向量的代码
 
