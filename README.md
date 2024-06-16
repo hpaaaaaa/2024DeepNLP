@@ -39,3 +39,15 @@
 - train_data：存放使用语料库生成的训练集
 
 - jyxstxtqj_downcc.com文件夹：存放中文语料库
+
+## HW4文件夹（对应第四次作业，包括基于Seq2Seq和基于Transformer的文本生成）
+
+- ZY2303203-黄家懿-HW4_Report.pdf：作业报告
+
+- seq2seq.py：基于seq2seq的文本生成代码
+
+- transformer.py：基于Transformer的文本生成代码
+
+- 天龙八部train.txt：训练集数据
+
+- 天龙八部test.txt：测试集数据
